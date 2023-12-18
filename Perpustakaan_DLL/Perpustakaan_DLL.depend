@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1701857587 source:c:\users\agung wira\documents\semester 3\coding_struktur_data\perpustakaan_dll\main.cpp
+	<iostream>
+	"DLL.h"
+
+1701857805 c:\users\agung wira\documents\semester 3\coding_struktur_data\perpustakaan_dll\dll.h
+
+1701858263 source:c:\users\agung wira\documents\semester 3\coding_struktur_data\perpustakaan_dll\dll.cpp
+	<iostream>
+	"DLL.h"
+
