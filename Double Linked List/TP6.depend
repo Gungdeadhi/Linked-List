@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1698005994 source:c:\users\agung wira\documents\coding_struktur_data\tp6\dll.cpp
+	<iostream>
+	"DLL.h"
+
+1698005754 c:\users\agung wira\documents\coding_struktur_data\tp6\dll.h
+
+1698003897 source:c:\users\agung wira\documents\coding_struktur_data\tp6\main.cpp
+	<iostream>
+	"DLL.h"
+
