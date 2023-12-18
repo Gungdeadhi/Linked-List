@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1697400831 source:c:\users\agung wira\documents\coding_struktur_data\tp5\main.cpp
+	<iostream>
+	"Agung.h"
+
+1697399656 c:\users\agung wira\documents\coding_struktur_data\tp5\agung.h
+	<iostream>
+
