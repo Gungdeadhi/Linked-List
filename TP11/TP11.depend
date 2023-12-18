@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1701767902 source:c:\users\agung wira\documents\coding_struktur_data\tp11\flight.cpp
+	<iostream>
+	"Flight.h"
+
+1701768029 c:\users\agung wira\documents\coding_struktur_data\tp11\flight.h
+	<iostream>
+
+1701767981 source:c:\users\agung wira\documents\coding_struktur_data\tp11\main.cpp
+	<iostream>
+	"Flight.h"
+
